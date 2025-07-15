@@ -1,4 +1,4 @@
-script_js = """const plan = [
+ """const plan = [
   {
     nombre: "Primer Cuatrimestre",
     asignaturas: [
